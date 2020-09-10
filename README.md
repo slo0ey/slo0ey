@@ -1,8 +1,16 @@
 # Hi there 👋
 
-앱 개발을 취미로 하는중이며, [![kt](https://img.shields.io/github/languages/top/acceler8tion/GoAwayUniversity?color=FE7522&logo=kotlin&logoColor=A2A2A2&style=for-the-badge)]() 연습중입니다.
+- 할줄아는거
 
-시간나면 [![ts](https://img.shields.io/github/languages/top/storycraft/node-kakao?logo=typescript&style=for-the-badge)]() 도 하고싶네요.
+![Android](https://img.shields.io/badge/-Android-00c717?style=for-the-badge&logo=android&logoColor=fff)
+![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=fff)
+![JavaScript](https://img.shields.io/badge/-Javascript-007396?style=for-the-badge&logo=js&logoColor=fff)  <br>
+
+- 하고싶은거
+
+![Kotlin](https://img.shields.io/badge/-Kotlin-f2850b?style=for-the-badge&logo=kotlin&logoColor=fff)
+![TypeScript](https://img.shields.io/badge/-Typescript-007396?style=for-the-badge&logo=ts&logoColor=fff)  <br>
+
 
 ## TODO
 
