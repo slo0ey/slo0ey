@@ -4,12 +4,12 @@
 
 ![Android](https://img.shields.io/badge/-Android-00c717?style=for-the-badge&logo=android&logoColor=fff)
 ![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=fff)
-![JavaScript](https://img.shields.io/badge/-Javascript-007396?style=for-the-badge&logo=js&logoColor=fff)  <br>
+![JavaScript](https://img.shields.io/badge/-JavaScript-007396?style=for-the-badge&logo=js&logoColor=fff)  <br>
 
 - 하고싶은거
 
 ![Kotlin](https://img.shields.io/badge/-Kotlin-f2850b?style=for-the-badge&logo=kotlin&logoColor=fff)
-![TypeScript](https://img.shields.io/badge/-Typescript-007396?style=for-the-badge&logo=ts&logoColor=fff)  <br>
+![TypeScript](https://img.shields.io/badge/-TypeScript-007396?style=for-the-badge&logo=ts&logoColor=fff)  <br>
 
 
 ## TODO
