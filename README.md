@@ -15,7 +15,7 @@
 ## TODO
 
 - Secret Project with [seuiggi](https://github.com/seuiggi)
-- Geometry Dash API (using TypeScript)
+- ~~Geometry Dash API (using TypeScript)~~
 - Discord Bot Saturn
 
 [![acceler8tion's github stats](https://github-readme-stats.vercel.app/api?username=acceler8tion)](https://github.com/acceler8tion/github-readme-stats)
