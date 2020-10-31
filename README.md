@@ -18,4 +18,5 @@
 - ~~Geometry Dash API (using TypeScript)~~
 - Discord Bot Saturn
 
-[![acceler8tion's github stats](https://github-readme-stats.vercel.app/api?username=acceler8tion)](https://github.com/acceler8tion/github-readme-stats)
+![acceler8tion's github stats](https://github-readme-stats.vercel.app/api?username=acceler8tion&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=acceler8tion&theme=tokyonight)
