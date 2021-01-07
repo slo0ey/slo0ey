@@ -12,12 +12,6 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007396?style=for-the-badge&logo=typescript&logoColor=fff)  <br>
 
 
-## TODO
-
-- **Pointercrate Viewer** `Main`
-- Secret Project with [seuiggi](https://github.com/seuiggi)
-- ~~Geometry Dash API (using TypeScript)~~
-- Discord Bot Saturn
 
 ![acceler8tion's github stats](https://github-readme-stats.vercel.app/api?username=acceler8tion&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=acceler8tion&theme=tokyonight)
