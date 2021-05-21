@@ -13,5 +13,5 @@
 
 
 
-![acceler8tion's github stats](https://github-readme-stats.vercel.app/api?username=acceler8tion&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=acceler8tion&theme=tokyonight)
+![slo0ey's github stats](https://github-readme-stats.vercel.app/api?username=slo0ey&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=slo0ey&theme=tokyonight)
