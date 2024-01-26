@@ -26,5 +26,6 @@
   <img src="https://img.shields.io/badge/React-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=white" />
   <img src="https://img.shields.io/badge/Svelte-FF3E00.svg?&style=for-the-badge&logo=Svelte&logoColor=white" />
   <img src="https://img.shields.io/badge/Unity-000000.svg?&style=for-the-badge&logo=Unity&logoColor=white" />
-  <img src="https://img.shields.io/badge/Unreal-000000.svg?&style=for-the-badge&logo=Unity&logoColor=white" />
+  <img src="https://img.shields.io/badge/Unreal Engine-000000.svg?&style=for-the-badge&logo=Unreal-Engine&logoColor=white" />
+  <img src="https://img.shields.io/badge/Godot-1B96EB.svg?&style=for-the-badge&logo=Godot&logoColor=white" />
 </div>
